@@ -8,7 +8,7 @@ Useful for quickly dealing with unwanted HEIC exports.
 
 1. [Install `brew`](https://brew.sh/)
 2. Install `image-magick` — `brew install image-magick`
-3. Download workflow from the [releases page](https://github.com/brachkow/alfred-image-to-jpg/releases/tag/1.0.0) and install it
+3. Download workflow from the [releases page](https://github.com/brachkow/alfred-image-to-jpg/releases/tag/v1.0.0) and install it
 
 ## Credits
 
